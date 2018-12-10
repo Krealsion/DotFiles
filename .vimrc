@@ -2,6 +2,7 @@
 " Josh DeMoss
 
 " Remove Training Wheels ------------------------
+
 noremap <Up> <NOP>
 noremap <Down> <NOP>
 noremap <Left> <NOP>
