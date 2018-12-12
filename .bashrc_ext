@@ -1,3 +1,7 @@
-alias rider="/opt/Rider*/bin/rider.sh"
-alias idea="/opt/idea*/bin/idea.sh"
-alias clion="/opt/clion*/bin/clion.sh"
+# Bash Prompt
+PS1='$? \[\e[91m\]\u\[\e[38;5;208m\]@\[\e[92m\]\h:\[\e[96m\]\w\[\e[35m\] $(date --iso-8601="seconds")\n\[\e[38;5;21m\]#\[\e[0m\] ';
+
+# Jetbrain IDE startup commands
+alias rider="nohup /opt/Rider*/bin/rider.sh >/dev/null 2>&1 &"
+alias idea=" nohup /opt/idea*/bin/idea.sh   >/dev/null 2>&1 &"
+alias clion="nohup /opt/clion*/bin/clion.sh >/dev/null 2>&1 &"
