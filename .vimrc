@@ -18,6 +18,12 @@ noremap j k
 noremap k j
 noremap h ;
 
+noremap H *N
+
+noremap ! ^
+noremap @ $
+noremap # @
+
 " Colors -----------------------------------------
 
 "colorscheme
@@ -48,4 +54,6 @@ set incsearch           " search as characters are entered
 set hlsearch            " highlight matches
 
 
+" Macros
 
+let @a='vi{d'

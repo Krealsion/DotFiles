@@ -1,5 +1,26 @@
 # Bash Prompt
-PS1='$? \[\e[91m\]\u\[\e[38;5;208m\]@\[\e[92m\]\h:\[\e[96m\]\w\[\e[35m\] $(date --iso-8601="seconds")\n\[\e[38;5;21m\]#\[\e[0m\] ';
+PS1='$? \[\e[91m\]\u\[\e[38;5;208m\]@\[\e[92m\]\h:\[\e[96m\]\w\[\e[35m\] $(date "+%H:%M:%S")\n\[\e[38;5;21m\]#\[\e[0m\] ';
+
+# Shortcuts
+alias ll="ls -la"
+
+# Bundle Exec Alias
+alias bx="bundle exec"
+alias bxr="bundle exec rake"
+
+# Git Alias
+alias gc="git checkout"
+alias gs="git status"
+alias gp="git pull"
+alias gpm="git pull origin master"
+alias gcm="git checkout master"
+alias grm="git rebase master"
+alias gcommit="git commit"
+alias gstash="git stash"
+alias gstashpop="git stash pop"
+alias gstashd="git stash drop"
+alias gstashpeek="git stash show -p"
+alias gdeltop="git reset head^ --hard"
 
 # Jetbrain IDE startup commands
 alias rider="nohup /opt/Rider*/bin/rider.sh >/dev/null 2>&1 &"
