@@ -1,0 +1,2 @@
+# Work aliases
+alias whitelabelgg='rake clean && rake whitelabel:download["APP-0308b12a-c714-7efc-f600-b7fcac530058"] && rake'

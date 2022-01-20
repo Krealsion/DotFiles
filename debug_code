@@ -1,0 +1,21 @@
+Get ready
+
+Debug Code functions
+
+These functions are named functions explicitly avalible and compiled for devs to use during runtime of a specific view.
+
+These functions are tied to a view pointer, and will be avalible when that view pointer is currently the most active view.
+
+Functions are registered with a `_register_debug_function()` call, which takes in a name (string), view (usually `this`), and a callback (MX::Safecallback<>).
+
+The name will be the title when displayed in the list.
+The view will be used to organize which functions will be avalible at any given time
+The callback will be the actual code run when it is selected.
+
+
+Branch:
+A. The view stores each callback it has avalible to it in a devtool wrapped field/function set.
+  How does the bottom sheet know which view to pull from?
+    On view became active, we could just set a global static var to point to that views list. That seems cool.
+B. All debug callbacks are stored in one location with their view pointers for keys.
+

@@ -1,0 +1,509 @@
+git pull
+git status
+clear
+git checkout 2.58
+git pull
+bundle exec rake clean
+bundle install
+bundle install
+bundle exec rake clean
+bundle exec rake clean
+bundle exec rake
+touch config/build_config_overrides.yaml
+bundle exec rake
+git checkout -b josh/258_vc_clean
+git checkout 2.57
+git status
+git checkout -b josh/257_vc_cleaning
+git checkout 2.57
+git reset head^
+git stash
+git stash drop
+git checkout master
+git pull
+bundle exec rake
+bundle install
+bundle exec rake
+rake whitelabel:download[APP-0305f320-b4a3-4741-a70f-3214e601d489]
+bundle exec rake
+bundle exec rake
+bundle exec rake
+git status
+git status
+git checkout master src/screens/payveris/*
+git stash
+git status
+git stash pop
+git status
+git pull origin master
+git pull origin master
+git checkout -b josh/cart_framework
+git reset head^
+bundle exec clang-format-check inspect --git -a  # Auto correct all files with changes in the local git repo
+git push origin +josh/cart_framework
+bash
+npm run dev
+bash
+cd repos/moneymobilex/
+git stash
+git checkout master
+git pull
+git stash pop
+git reset head^
+git checkout -b josh/cart_locale_rename
+
+bundle exec rake
+git stash
+git checkout master
+git pull
+git stash pop
+git checkout -b josh/cart_remove_rows
+git push origin +josh/cart_remove_rows
+rake whitelabel:download[APP-0308b12a-c714-7efc-f600-b7fcac530058]
+rake whitelabel:download[APP-0308b12a-c714-7efc-f600-b7fcac530058]
+bundle exec rake
+rake whitelabel:download[APP-9f5d6698-a6b8-4244-913c-66ba125a1302]
+bundle exec rake
+bundle exec rake configure:generate_themes
+git checkout denna/disable_profile
+bundle exec rake
+git checkout master
+git pull
+bundle exec rake configure:generate_scaffold
+rake whitelabel:download[APP-0305f320-b4a3-4741-a70f-3214e601d489]
+bundle exec rake
+bundle exec rake configure:generate_scaffold
+git checkout josh/cart_remove_rows
+bundle exec rake configure:generate_scaffold
+bundle exec rake configure:generate_scaffold
+bundle exec rake configure:generate_scaffold
+git stash
+git checkout master
+git pull
+git stash pop
+git checkout -b josh/cart_scaffold
+bundle exec rake
+bundle exec clang-format-check inspect --git -a  # Auto correct all files with changes in the local git repo
+git checkout -b josh/cart_destination
+git push origin +josh/cart_destination
+git pull origin  master
+bundle exec rake
+cd ../gru
+git checkout -b josh/cart_destinations
+git checkout master
+git reset head^
+git stash
+git pull
+git checkout josh/cart_destinations
+git pull origin master
+git reset head^
+git reset head^
+git reset head^
+git stash
+git stash drop
+git stash pop
+git pull master
+git pull origin master
+git push origin +josh/cart_destinations
+bash
+cd repos/gru/
+bundle exec rake
+bundle install
+bundle install
+bundle exec rake
+bundle exec mx-conan remove
+bundle exec mx-conan install
+bundle exec mx-conan update
+bundle exec rake
+cd ..
+cd moneymobilex/
+bundle exec mx-conan install
+bundle exec rake
+cd ..
+cd gru
+git checkout master
+git stash
+git checkout master
+git pull
+bundle exec rake
+bundle install
+bundle exec rake
+bundle exec mx-conan update
+bundle exec rake
+bx rake mugatu
+bx mx-conan build gru
+bundle exec mx-conan build gru
+git stash pop
+git checkout -b josh/cross_account_frequencies
+git push +josh/cross_account_frequencies
+git push origin +josh/cross_account_frequencies
+cd ../moneymobilex/
+bundle exec mx-conan update
+bundle exec mx-conan update
+bundle exec rake
+cd /Users/josh.demoss/.conan/data/gru/
+ls
+rm -rf 2.50*
+ll
+ls
+cd -
+bundle exec rake
+bundle exec rake
+git diff --stat
+bundle exec rake configure:generate_scaffold
+bundle exec rake configure:generate_scaffold
+bundle exec rake configure:generate_scaffold
+bundle exec rake configure:generate_scaffold
+bundle exec rake
+bundle exec rake
+bundle exec mx-conan update
+git checkout master
+git stash
+git checkout master
+git pull
+git stash pop
+bundle exec rake
+bundle install
+bundle exec rake
+bundle exec clang-format-check inspect --git -a  # Auto correct all files with changes in the local git repo
+bundle exec clang-format-check inspect --git -a  # Auto correct all files with changes in the local git repo
+bundle exec clang-format-check inspect --git -a  # Auto correct all files with changes in the local git repo
+git checkout -b josh/cart_create_presenter
+git push origin +josh/cart_create_presenter
+git push origin +josh/cart_create_presenter
+git push origin +josh/cart_create_presenter
+git stash
+git checkout sheldon/fix-deprecated-abaddressbook
+git stash
+git status
+git stash pop
+git checkout -b josh/cart_history_view
+git push origin +josh/cart_history_view
+git stash
+git checkout josh/cart_create_presenter
+git stash
+git checkout josh/cart_history_view
+git stash pop
+git stash pop
+git push origin +josh/cart_history_view
+git branch --merged
+git branch -r --merged 
+git stash
+git checkout master
+git pull
+git checkout -b josh/cart_valueor
+git checkout josh/cart_history_view
+git push origin +josh/cart_history_view
+git push origin +josh/cart_history_view
+git reset head^
+git push origin +josh/cart_history_view
+git stash pop
+git push origin +josh/cart_history_view
+git push origin +josh/cart_history_view
+git stash
+git checkout master
+git pull
+git stash pop
+git checkout -b josh/cart_details
+git checkout master
+git reset head^
+git stash
+git checkout josh/cart_details
+git stash pop
+git push origin +josh/cart_details
+git push origin +josh/cart_details
+git reset head^
+git push origin +josh/cart_details
+bundle exec rake
+bundle install
+bundle exec rake
+bundle exec rake configure:generate_scaffold
+bundle exec rake whitelabel:download[APP-ed7446f7-6439-4c1b-aee7-f4bb3bf9be38]
+bundle exec rake
+rake whitelabel:download[APP-0305f320-b4a3-4741-a70f-3214e601d489]
+bundle exec rake
+bundle exec rake configure:generate_scaffold
+rake whitelabel:download[APP-0305f320-b4a3-4741-a70f-3214e601d489]
+bundle exec rake
+bundle exec rake configure:generate_scaffold
+bundle exec rake
+git stash
+git checkout master
+git pull
+git checkout -b josh/transfer_history
+git stash pop
+git status
+bundle exec rake
+bundle install
+bundle exec rake
+git stash
+git stash pop
+git stash
+git checkout master
+git pull
+git stash pop
+git checkout -b josh/transfer_history_presenter
+git push +josh/transfer_history_presenter
+git push origin +josh/transfer_history_presenter
+git reset head^
+bundle exec clang-format-check inspect --git -a  # Auto correct all files with changes in the local git repo
+git push origin +josh/transfer_history_presenter
+bash
+cd repos/appiumx-desktop/
+npm run dev
+bash
+cd repos/moneymobilex/
+git push origin +josh/transfer_history_presenter
+git push origin +josh/transfer_history_presenter
+bundle exec rake configure:generate_view_configs
+git stash
+git checkout master
+git pull
+git stash pop
+git checkout -b josh/alaska_transfer_durations
+bundle exec rake
+git stash
+git checkout master
+git pull
+git checkout -b josh/ausa_fixes
+git stash pop
+git push origin +josh/ausa_fixes
+bundle exec clang-format-check inspect --git -a  # Auto correct all files with changes in the local git repo
+git push origin +josh/ausa_fixes
+bundle exec rake configure:generate_view_configs
+git stash
+git checkout master
+git pull
+git stash pop
+git checkout -b josh/ausa_durations
+git stash
+git checkout master
+git pull
+git stash pop
+bundle exec rake
+git checkout -b josh/cart_recurring_details
+cd ../gru/
+git stash
+git checkout master
+git puull
+git pull
+git pull origin master
+git checkout -b josh/rdc_status
+git push origin +josh/rdc_status
+git pull master
+git pull
+git rebase master
+git rebase
+git reset head^
+git stash
+git pull
+git pull origin master
+git commit
+git push origin +josh/rdc_status
+cd ../moneymobilex/
+git stash
+git checkout master
+git pull 
+git checkout -b josh/rdc_failure
+git stash pop
+bundle exec rake
+cd ../gru/
+bundle exec rake
+bundle install
+cd ..
+cd moneymobilex/
+bundle exec rake
+bundle exec rake
+bundle exec mx-conan update
+bundle exec mx-conan update
+cd ../gru/
+git stash
+git checkout master
+git pull
+git stash pop
+git reset head^
+git reset head^
+git checkout -b josh/rdc_rejected
+bundle exec rake
+cd ..
+cd moneymobilex/
+bundle exec rake
+bundle exec rake
+bundle exec rake
+bundle exec mx-conan update
+bundle exec mx-conan remote disable
+bundle exec mx-conan update
+bundle exec mx-conan remote enable
+bundle exec mx-conan uninstall
+bundle exec mx-conan install
+bundle exec mx-conan install
+bundle exec mx-conan install
+bundle exec mx-conan install
+bundle install
+bundle update
+bundle exec mx-conan install
+git push origin +josh/rdc_failure
+bundle exec rake
+git checkout master
+git pull
+git stash
+git pull
+git checkout -b josh/value_or
+git stash
+git checkout -b josh/value_or
+git checkout -b josh/value_or_rdv
+git stash pop
+bundle exec mx-conan update
+bundle install
+git checkout josh/rdc_failure
+bundle exec mx-conan update
+bundle exec rake
+bundle exec rake
+bundle exec rake configure:generate_credit_reports_score_data
+git push origin +josh/rdc_failure
+bundle exec rake
+bx rake mugatu
+bundle exec rake mugatu
+
+bx rake mugatu
+bundle exec rake mugatu
+bundle exec rake
+git commit
+bundle exec rake whitelabel:download[APP-9f5d6698-a6b8-4244-913c-66ba125a1302]
+bundle exec rake whitelabel:download[APP-9f5d6698-a6b8-4244-913c-66ba125a1302]
+bundle exec rake
+git reset head^
+bundle exec clang-format-check inspect --git -a  # Auto correct all files with changes in the local git repo
+git push origin +josh/rdc_failure
+git push origin +josh/rdc_failure
+bundle exec mx-conan update
+cd ../gru/
+git checkout 64713c318e32ea1b12f545ca2cafee33e642acdb
+git checkout -b 2.59
+git reset head^
+git push origin +josh/rdc_failure
+git checkout -b josh/rdc_backport
+git reset head^
+git reset head^
+git push origin +josh/rdc_backport
+cd ..
+cd moneymobilex/
+git stash pop
+git stash pop
+git stash pop
+git status
+bundle exec rake whitelabel:download[APP-0305f320-b4a3-4741-a70f-3214e601d489]
+bundle exec rake
+git checkout 2.59
+git stash
+git checkout 2.59
+git checkout -b josh/rdc_statuses
+gt stash
+git stash
+git stash pop
+git checkout master
+git pull
+bundle exec rake whitelabel:download[APP-9f5d6698-a6b8-4244-913c-66ba125a1302]
+git checkout josh/rdc_statuses
+bundle exec rake
+bundle install
+bundle exec rake
+bundle exec mx-conan update
+bundle exec rake
+bundle exec rake
+cd ..
+cd gru
+git checkout 2.59
+git pull
+git checkout -b josh/deploy_rdc
+git commit --allow-empty -m "[gru] Version 2.50.3-0 - Deploy"
+cd ..
+cd mon
+cd moneymobilex/
+git status
+git bundle exec rake
+bundle exec rake
+bundle exec rake
+bundle exec rake
+bundle exec rake whitelabel:download[APP-9f5d6698-a6b8-4244-913c-66ba125a1302]
+bundle exec rake
+git pull origin 2.59
+git status
+bundle exec rake
+vim ~/.vimrc
+vim ~/.ideavimrc 
+vim ~/.vimrc
+vim ~/.vimrc
+vim ~/.vimrc
+vim ~/.vimrc
+vim ~/.vimrc
+rake whitelabel:download[APP-0305f320-b4a3-4741-a70f-3214e601d489]
+rake whitelabel:download[APP-0305f320-b4a3-4741-a70f-3214e601d489]
+bundle exec rake
+git checkout master
+git stash
+git checkout master
+git pull
+git stash pop
+git stash pop
+bundle exec rake
+bundle exec rake
+rake whitelabel:download[APP-0305f320-b4a3-4741-a70f-3214e601d489]
+bundle exec rake
+bundle exec rake icons:update
+bundle exec rake configure:generate_scaffold
+ls src/screens/transfer/payment_landing/
+git pull origin master
+git status
+git restore src/screens/transfer/payment_landing/payment_create_presenter.cpp
+git pull origin master
+git checkout -b josh/dest_id
+bundle exec rake
+bundle exec mx-conan update
+bundle exec mx-conan update
+bundle exec rake
+bash
+echo "Josh stinks"
+echo "Josh stinks" > ~/josh_stinks.txt
+cat ~/josh_stinks.txt 
+git status
+git branch
+pwd
+ls
+pwd
+cd repos/appiumx-desktop/
+npm run dev
+cd ..
+cd mobile-handbook/
+git status
+vim InternalConfigurations.md 
+git add InternalConfigurations.md 
+git commit -m "Typo"
+git push
+git reset head^
+git stash
+git checkout josh/internal_config
+git stash pop
+vim InternalConfigurations.md 
+git add InternalConfigurations.md 
+git commit -m "Typo"
+git push
+git status
+git checkout josh/internal_config_enum
+git checkout josh/internal_config_enums
+git pull
+git status
+git pull origin master
+vim InternalConfigurations.md 
+git add InternalConfigurations.md 
+git commit -m "Fixed merge conflicts and added small note"
+git push
+bash
+bash
+bash
+bash
+bash
+bash
+bash
+bash
+bash

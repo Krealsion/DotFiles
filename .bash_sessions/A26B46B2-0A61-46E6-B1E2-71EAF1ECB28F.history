@@ -1,0 +1,502 @@
+conan remove gru
+bxr
+conan remove gru
+bxr
+conan remove gru
+bxr
+bx mx-conan update
+bxr
+bx mx-conan update
+clear
+bxr
+vim
+ll
+mv letter ~
+git checkout josh/pulse_dashboard
+git stash
+git checkout josh/pulse_dashboard
+git pull
+git pull origin masterr
+git pull origin master
+bxr
+git stash apply
+git stash apply
+git stash apply
+git status
+git stash pop
+bxr
+vim ~/.bashrc_ext 
+bash
+clear
+hs
+gs
+git status
+git status
+git stash
+gt status
+git status
+git checkout master
+git pull
+git checkout josh/pulse_dashboard
+git rebase
+git push
+git rebase -i master
+git rebase --continue
+git rebase --continue
+git rebase --continue
+git rebase --continue
+git rebase --continue
+git status
+git status
+git add institutions/_default/config/internal_configs.json 
+git status
+git rebase --continue
+git rebase --continue
+git rebase --continue
+git push
+git push origin +josh/pulse_dashboard
+git push origin +josh/pulse_dashboard
+git push origin +josh/pulse_dashboard
+git push origin +josh/pulse_dashboard
+git status
+git checkout master
+git pull
+gstashpeek 
+git stash pop
+gstashpeek 
+git stash drop
+gstashpeek 
+git stash pop
+git checkout demoss/beats
+git checkout -b demoss/pulse_menu
+git stash pop
+git status
+git stash
+git reset head^
+git stash
+git pull origin master
+git stash pop
+git status
+gstashpeek 
+git stash drop
+gstashpeek 
+git stash drop
+gstashpeek 
+git stash drop
+gstashpeek 
+git stash drop
+gstashpeek 
+git stash pop
+bx mx-conan update
+bxr
+conan remove gru
+bxr
+git reset head^
+bxr
+bxr whitelabel:set[ffb]
+bxr whitelabel:set[first]
+bxr whitelabel:set[first_foundation]
+bxr whitelabel:set[first_foundation]
+bxr
+git stash
+git checkout mattk/sticky_header_fix
+git checkout mattk/sticky_header_fix
+git checkout f958fc20651645b49ee16c5d4f82cd9a731e743d
+git checkout 2c8a3c4896a3e94ecb99e1466cc2030c2b981ce7
+git pull
+git checkout 2c8a3c4896a3e94ecb99e1466cc2030c2b981ce7
+bxr
+vim ~/.bashrc_ext 
+vim ~/.bashrc_ext 
+git checkout mattk/sticky_header_fix
+vim ~/.bashrc_ext 
+git commit listr
+git commit list
+git commits
+git commit --liist
+git commit --list
+git history
+git --help
+git log
+git log
+git checkout 0513358394e0278f4e8619050a48df3e1d1f3848
+git stash
+git stash
+git checkout 0513358394e0278f4e8619050a48df3e1d1f3848
+bxr
+git checkout mattk/sticky_header_fix
+gstashpop
+bash
+git checkout 0513358394e0278f4e8619050a48df3e1d1f3848
+bxr
+git log
+git checkout josh/pulse_dashboard_presenter
+git stash
+git checkout josh/pulse_dashboard_presenter
+git pull origin master
+git status
+git commit
+gstashpeek
+git stash drop
+gstashpeek
+git stash drop
+gstashpeek
+git stash pop
+vim ~/.vimrc 
+vim ~/.vimrc 
+vim ~/.vimrc 
+vim ~/.vimrc 
+vim ~/.vimrc 
+vim ~/.vimrc 
+vim ~/.vimrc 
+bxr
+bxr
+bxr whitelabel:set[mx_beta]
+bxr
+bxr
+bxr
+bx mx-conan update
+conan remove gru
+conan remove gru
+bxr
+git status
+git stash
+git status
+git checkout master
+git pull
+git status
+bxr
+bxr
+bxr
+bxr
+gstashpeek
+gstashpop
+gstash pop
+gstash pop
+gstash pop
+gstash pop
+git stash pop
+git status
+git status
+git stash pop
+bxr
+git checkout josh/pulse_dashboard_presenter
+git stashh
+git stash
+git checkout josh/pulse_dashboard_presenter
+git status
+git log
+git checkout -b demoss/pulse_dashboard_presenter
+git pull origin master
+conan remove gru
+git stash pop
+bxr conan-update
+bundle install
+bxr conan-update
+bx mx-conan update
+bxr
+
+git reset head^
+bxr
+bundle exec clang-format-check inspect --git -a  # Auto correct all files with changes in the local git repo
+bundle exec clang-format-check inspect --git -a  # Auto correct all files with changes in the local git repo
+git status
+git checkout master
+git checkout master
+git checkout master
+git pull
+git stash
+git pull
+git stash pop
+bxr configure:generate_scaffolding
+bxr --rasks
+bxr --tasks
+bxr --tasks | grep scaff
+bxr configure:generate_ui_componoents_scaffold
+bxr configure:build_app_scaffold_config
+bxr configure:build_app_scaffold_config
+bxr configure:build_app_scaffold_config
+bxr
+git stash
+git reset head^
+bxr
+cd ..
+git clone git@gitlab.mx.com:mx/atlas.git
+cd atlas/
+gem 'atlas'
+bundle
+bundle
+git checkout -b demoss/sync_beats
+cd ..
+cd atlas/
+git checkout master
+cd ..
+cd moneymobilex/
+git checkout -b demoss/sync_beats
+git checkout master
+git stash
+git checkout master
+gstashpop
+git stash pop
+git checkout -b demoss/pulse_menu
+git checkout demoss/pulse_menu
+git status
+git checkout demoss/pulse_menu
+git stash pop
+git stash
+git checkout master
+git pull
+git stash pop
+bxr
+bxr mugatu
+git status
+git stash
+bxr mugatu
+git status
+git stash pop
+git stash pop
+git stash pop
+git stash pop
+git stash pop
+git status
+git status
+gstashpeek
+git stash pop
+git status
+git reset head^
+git stash
+git reset head^
+git status
+git add src/dev_tools/dev_tools_buttons.*
+git reset head^
+git status
+git add *
+git status
+
+git checkout demoss/pulse_menu
+git status
+git pull
+git pull origni master
+git pull origin master
+git status
+bxr configure:build_app_scaffold_config
+bxr
+git push origin +demoss/pulse_menu
+git push origin +demoss/pulse_menu
+git push origin +demoss/pulse_menu
+git push origin +demoss/pulse_menu
+git checkout demoss/sync_beats
+bxr
+bxr whitelabel:set[mx_beta]
+bxr
+bxr whitelabel:set[mx_beta, sand]
+bxr whitelabel:set[mx_beta]
+bxr whitelabel:set[mx_beta]
+bxr whitelabel:set[mx_beta]
+bxr whitelabel:download[CLT-fbbc1f9d-fbbf-444e-8905-889d1b25307f]
+bxr whitelabel:download[CLT-fbbc1f9d-fbbf-444e-8905-889d1b25307f]
+git stash pop
+bxr whitelabel:set[mx_beta]
+bxr
+bxr whitelabel:download[APP-99066516-bdd8-46db-9846-18e4cf630d02]
+bxr
+cd ../gru/
+git pull origin master
+git log
+git checkout -b demoss/sync_beats
+cd ../synchronicity/
+cd config
+ll
+vim database.yml.sample 
+cd ..
+cd bin/setup 
+cd bin/
+cd ..
+./bin/setup 
+gem install pg -v '0.21.0
+gem install pg -v '0.21.0'
+rvm --list
+rvm -list
+rvm list
+rvm install
+rvm list known
+rvm install jruby-9.2.9.0
+vim /Users/josh.demoss/.rvm/log/1632765185_jruby-9.2.9.0/gemsets.import.global.log
+homebrew install java
+brew install java
+rvm install jruby-9.2.9.0
+rvm install jruby-9.2.9.0
+rvm list
+./bin/setup 
+bundle install
+bash
+clearr
+clear
+gem install bundler
+bundle install
+./bin/setup 
+./bin/setup 
+sudo -u postgres psql
+sudo service postgresql start
+sudo service postgresql start
+./bin/setup 
+brew install postgres
+brew services start postgresql
+brew services stop postgresql
+psql postgres
+brew services start postgresql
+psql postgres
+./bin/setup 
+bx rake db:setup
+./bin/setup 
+rvm list
+brew install jemv
+brew install jenv
+jenv local
+bxr whitelabel:set[mx beta]
+bxr whitelabel:set[mxbeta]
+cd ..
+cd moneymobilex/
+bxr whitelabel:set[mx_beta]
+bxr
+rm -rf ~/Documents/MX\ Beta
+rm -rf ~/Documents/MX\ Beta
+bxr whitelabel:download[APP-99066516-bdd8-46db-9846-18e4cf630d02]
+bxr
+find . -name 'cacerts'
+git pull origin master
+git stash
+git pull origin master
+git stash pop
+bxr configure:build_app_scaffold_config
+bxr mugatu
+git status
+bxr
+bxr
+bash
+cd repos/appiumx-desktop/
+vim
+vim ../../Documents/projectnotes/
+vim ../../Documents/projectnotes/config_editor 
+vim ../../Documents/projectnotes/MMXUCS
+bash
+cd repos/gru/
+git status
+git stash
+git checkout 2.69.0
+git checkout 074affa106a8fe44f3bfa25019a63b915fe75737
+git status
+git stash applu
+git stash apply
+bundle exec mx-conan create macos
+bxrt
+bx
+bundle exec mx-conan create macos
+bundle exec mx-conan create ios
+git status
+git stash
+git pull
+git checkout master
+git pull
+bxr
+git stash pop
+git status
+bundle exec mx-conan create macos
+bundle exec mx-conan create ios
+git status
+git pull
+git commit
+git status
+git reset head
+git status
+git reset head^
+git reset head^
+git status
+gs
+clear
+git status
+git stash
+git status
+git pull
+git stash pop
+git commit
+git status
+bundle exec mx-conan create macos
+bundle exec mx-conan create ios
+bundle exec mx-conan create macos
+bxr
+bundle exec mx-conan create macos
+bxr
+bundle exec mx-conan create macos
+bundle exec mx-conan create ios
+git status
+git status
+bundle exec mx-conan create macos
+cd ..
+git checkout git@gitlab.mx.com:mx/active_record.git
+git clone git@gitlab.mx.com:mx/active_record.git
+cd active_record/
+git pull
+bxr
+bundle install
+bxr
+cd ..
+cd gru/
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+bundle exec mx-conan create ios
+bundle exec mx-conan create ios
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+bxrrr
+bxr
+bxr
+bxr
+bxr
+bxr
+bxr
+bxr
+bxr
+bxr
+bxr
+bxr
+bxr
+bxr
+bxr
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+bundle exec mx-conan create ios
+bundle exec mx-conan create ios
+bundle exec mx-conan create ios
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+bundle exec mx-conan create ios
+bundle exec mx-conan create ios
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+bundle exec mx-conan create maco
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+bundle exec mx-conan create ios
+cd ..
+cd ..
+cd Documents/
+rm -rf MX\ Beta/
+cd ..
+cd repos/gru/
+cd ..
+git clone git@gitlab.mx.com:mx/synchronicity.git
+cd synchronicity/
+Download Redis $sudo apt-get install redis-server
+sudo apt-get install redis-server
+brew install redis
+sudo redis-server
+sudo redis-server
+bash
+cd repos/appiumx-desktop/
+npm run dev
+bash
+bash

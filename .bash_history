@@ -1,0 +1,500 @@
+conan --version
+brew upgrade
+brew upgrade conan
+conan --version
+cd ~/.conan/
+vim settings.yml 
+cd ~/repos/moneymobilex/
+exit
+
+bxr whitelabel:set[mx_beta]
+bxr whitelabel:set[fcti]
+bxr whitelabel:download[APP-99066516-bdd8-46db-9846-18e4cf630d02]
+bxr whitelabel:download[APP-8a56a4dd-b166-4d4a-bc38-9d099d853abd]
+bxr whitelabel:download[APP-DEFAULT]
+vim institutions/epic/config/overrides.yaml
+bxr whitelabel:download[APP-DEFAULT]
+bxr whitelabel:download[APP-8a56a4dd-b166-4d4a-bc38-9d099d853abd]
+touch tmp/client.yaml
+bxr whitelabel:download[APP-8a56a4dd-b166-4d4a-bc38-9d099d853abd]
+mkdir tmp
+touch tmp/client.yaml
+bxr whitelabel:download[APP-8a56a4dd-b166-4d4a-bc38-9d099d853abd]
+touch institutions/epic/config/overrides.yaml
+bxr whitelabel:download[APP-8a56a4dd-b166-4d4a-bc38-9d099d853abd]
+git stash
+git stash drop
+gcm
+git pull origin master
+bxr
+bxr clean
+touch institutions/epic/config/overrides.yaml
+bxr clean
+touch institutions/epic/config/overrides.yaml
+bxr whitelabel:download[APP-8a56a4dd-b166-4d4a-bc38-9d099d853abd]
+touch institutions/epic/config/overrides.yaml
+touch tmp/client.yaml
+mkdir tmp
+touch tmp/client.yaml
+bxr whitelabel:download[APP-8a56a4dd-b166-4d4a-bc38-9d099d853abd]
+rm -fr build
+bx rake clean
+bxr whitelabel:download[APP-8a56a4dd-b166-4d4a-bc38-9d099d853abd]
+bxr whitelabel:download[APP-8a56a4dd-b166-4d4a-bc38-9d099d853abd]
+mkdir tmp
+touch tmp/client.yaml
+bxr whitelabel:download[APP-8a56a4dd-b166-4d4a-bc38-9d099d853abd]
+bxr whitelabel:download[APP-8a56a4dd-b166-4d4a-bc38-9d099d853abd]
+bxr whitelabel:set[mx_beta
+git clean -fdx
+bxr whitelabel:download[APP-8a56a4dd-b166-4d4a-bc38-9d099d853abd]
+git status
+bxr whitelabel:download[APP-8a56a4dd-b166-4d4a-bc38-9d099d853abd]
+git clean -fdxgit fsck --lost-found
+git fsck --lost-found
+bxr whitelabel:download[APP-8a56a4dd-b166-4d4a-bc38-9d099d853abd]
+ bundle exec rake whitelabel:download[APP-8a56a4dd-b166-4d4a-bc38-9d099d853abd]
+bxr whitelabel:download[APP-8a56a4dd-b166-4d4a-bc38-9d099d853abd]
+ bundle exec rake whitelabel:download[APP-8a56a4dd-b166-4d4a-bc38-9d099d853abd]
+bxr
+bx mx-conan update
+git fsck | awk '{print $3}' | xargs git show | tee searchresults.log
+git fsck | awk '{print $3}' | xargs git show | tee searchresults.log  | grep git fsck 
+git fsck 
+git fsck | awk '{print $3}' | xargs git show
+git fsck | awk '{print $3}' | xargs git show | grep src/
+git fsck | awk '{print $3}' | xargs git show | grep / | grep todo
+echo $0
+type bxr
+vim ~/.bashrc_ext 
+git fsck | awk '{print $3}' | xargs git show | tee searchresults.log
+vim ~/Documents/projectnotes/router.cpp
+vim ~/Documents/projectnotes/router.h
+git checkout demoss/sync_beats
+git stash
+git checkout demoss/sync_beats
+git push
+git pull origin master
+ll
+bxr
+git status
+git stash
+git reset head^
+git  stash
+git stash drop
+bxr
+bxr configure:generate_internal_configs
+touch conan-versions.yaml
+vim conan-versions.yaml 
+cmake -Bbuild -H.
+cmake -Bbuild -H.
+bxr
+git pull origin master
+git stash
+git status
+git add *
+git stash
+git stashh  drop
+git pull origin master
+bxr
+cmake -Bbuild -H.
+git checkout institutions
+git checkout master institutions
+bxr
+ bundle exec rake whitelabel:download[APP-8a56a4dd-b166-4d4a-bc38-9d099d853abd]
+ bundle exec rake whitelabel:download[APP-8a56a4dd-b166-4d4a-bc38-9d099d853abd]
+bxr
+bxr
+bxr
+cmake -Bbuild -H.
+touch conan-versions.yaml
+vim conan-versions.yaml 
+cmake -Bbuild -H
+cmake -Bbuild -H.
+cmake -Bbuild -H.
+cmake -Bbuild -H.
+cmake -Bbuild -H.
+cmake -Bbuild -H.
+cmake -Bbuild -H.
+cmake -Bbuild -H.
+cmake -Bbuild -H.
+cmake -Bbuild -H.
+bxr clean
+ba
+cmake -Bbuild -H.
+cmake -Bbuild -H.
+cmake -Bbuild -H.
+bundle exec rake configure:apple
+gem uninstall rmagick
+bundle install
+bundle exec rake configure:apple
+bundle exec rake configure:macos
+cmake -Bbuild -H.
+md5 conan-versions.yaml 
+md5 conan-versions.yaml 
+md5 conan-versions.yaml 
+bundle exec rake configure:macos
+cmake -Bbuild -H.
+bundle exec rake configure:macos
+cmake -Bbuild -H.
+cmake -Bbuild -H.
+bxr
+bxr configure:generate_themes
+bxr configure:build_themes
+bxr
+git diff institutions/fcti/proj.apple/macos/conanbuildinfo.cmake proj.apple/macos/conanbuildinfo.cmake 
+diff institutions/fcti/proj.apple/macos/conanbuildinfo.cmake proj.apple/macos/conanbuildinfo.cmake 
+fileMerge institutions/fcti/proj.apple/macos/conanbuildinfo.cmake proj.apple/macos/conanbuildinfo.cmake 
+diff institutions/fcti/proj.apple/macos/conanbuildinfo.cmake proj.apple/macos/conanbuildinfo.cmake 
+git pull origin master
+cd ../gru/
+git pull origin master
+git rebase master
+git rebase --continue
+git status
+git rebase --continue
+git rebase --continue
+git rebase --continue
+git rebase --continue
+git status
+rm -rf .idea/
+rm -rf cmake-build-debug/
+git status
+git rebase --continue
+git rebase --skip
+git rebase --continue
+git push origin +demoss/sync_beats
+bundle exec clang-format-check inspect --git -a
+git push origin +demoss/sync_beats
+git rebase master
+git rebase origin master
+git status
+git pull origin master
+git checkout demoss/sync_beats
+git status
+git rebase master
+git rebase --continue
+git rebase --continue
+git push origin +demoss/sync_beats
+git rebase --continue
+git push origin +demoss/sync_beats
+git status
+bundle exec mx-conan create macos
+git reset head^
+git reset head^
+git reset head^
+git reset head^
+git reset head^
+bundle exec clang-format-check inspect --git -a
+git push origin +demoss/sync_beats
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+bxr
+bx rake
+bx rake
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+bundle exec mx-conan create ios
+git push origin +demoss/sync_beats
+git pull origin master
+git commit
+git reset head^
+git stash
+git rebase master
+git pull origin master
+gc
+git status
+git stash
+git stash dro
+git stash drop
+git status
+git rebase master
+gpm
+git commit
+git rebase master
+git rebase --continue
+git reset head^
+git status
+rm definitions/mdx/managed_cards/managed_card.proto 
+git status
+git restore definitions/mdx/managed_cards/managed_card.proto
+git status
+git push origin +demoss/sync_beats
+git pull origin master
+git commit
+git commit
+git checkout master
+git pull
+git checkout demoss/sync_beats
+git rebase master
+git rebase --continue
+git push origin +demoss/sync_beats
+git stash
+cd ../moneymobilex/
+git stash
+git checkout demoss/theme_editor_v1
+git status
+rm institutions/cpb/src/cpb/web_profile_*
+git status
+git checkout demoss/theme_editor_v1
+bxr
+bundle install
+bundle install
+git stash pop
+bxr
+bash
+git push origin +demoss/sync_beats
+git push origin +demoss/sync_beats
+git push origin +demoss/sync_beats
+cd  repos/
+cd appiumx-desktop/
+npm run dev
+bash
+cd repos/moneymobilex/
+git checkout demoss/sync_beats
+git checkout master
+git pull
+git checkout demoss/sync_beats
+git pull
+git rebase master
+git rebase --continue
+git rebase --continue
+git rebase --continue
+git rebase --continue
+git rebase --continue
+git rebase --continue
+git status
+git push origin +demoss/sync_beats
+bxr
+bundle install
+bxr
+bxr
+bx mx-conan update
+bx mx-conan update
+bxr
+bxr whitelabel:set[mx_beta
+bxr whitelabel:set[mx_beta, devtools=true]
+bxr whitelabel:set[mx_beta]
+brr
+bxr
+rm -rf ~/Documents/MX\ Beta
+rm -rf ~/Documents/MX\ Beta\ Sand/
+bxr whitelabel:set[mx_beta]
+bxr whitelabel:set[mx_beta_sand]
+bxr whitelabel:set[APP-99066516-bdd8-46db-9846-18e4cf630d02]
+bxr whitelabel:download[APP-99066516-bdd8-46db-9846-18e4cf630d02]
+bxr
+grh
+git reset head^
+git reset head^
+git reset head^
+git reset head^
+git reset head^
+git reset head^
+git reset head^
+bundle exec clang-format-check inspect --git -a
+Sync Beats
+git pull origin master
+git push origin +demoss/sync_beats
+git reset head^
+git checkout master
+git stash
+git stash drop
+git checkout master
+git pull
+git status
+git add src/*
+git stash
+git stash drop
+git pull
+git push origin +demoss/sync_beats
+git push origin +demoss/sync_beats
+git checkout demoss/sync_beats
+git rebase master
+git rebase --continue
+git status
+git add client/default/conanfile.py 
+git rebase --continue
+git reset head^
+git push origin +demoss/sync_beats
+bxr
+bxr whitelabel:download[APP-99066516-bdd8-46db-9846-18e4cf630d02]
+bxr whitelabel:set[fcti]
+bxr
+bxr
+cmake -Bbuild -H.
+bxr whitelabel:set[fcti]
+bxr
+bxr
+bxr
+clear
+clear
+bxr
+bxr
+bxr
+bxr
+bxr
+bxr
+bxr
+bxr
+bxr
+git stash
+gcm
+git pull
+git stash pop
+bxr
+bash
+cleear
+clear
+rm -rf ~/Documents/Epic\ Bank
+rm -rf ~/Documents/Epic\ Bank\ GG/
+git checkout demoss/fcti_start_animatioon
+git checkout demoss/fcti_start_animation
+git checkout demoss/theme_editor_v1
+bxr
+git pull origin master
+bxr
+bundle exec rake
+bundle install
+bundle exec rake
+bundle install mx-projectconfig 1.23.1
+bundle install mx-projectconfig-1.23.1
+bundle install mx-projectconfig 1.23.1
+bundle install mx-projectconfig
+bundle install mx-projectconfig-1.23.1
+bundle install
+bxr
+exit
+whitelabelgg 
+rake whitelabel:download[APP-0308b12a-c714-7efc-f600-b7fcac530058]
+whitelabelgg 
+vim ~/.bashrc_work
+vim ~/.bashrc
+vim ~/.bashrc_ext 
+vim ~/.bashrc_work
+bash
+exit
+cd repos/moneymobilex/
+git push origin +demoss/fcti_start_animation
+git checkout master
+git pull
+git stash pop
+git stash
+git stash drop
+git stash pop
+git stash
+git stash drop
+git stash drop
+git stash pop
+git stash
+git status
+bxr
+git checkout demoss/fcti_start_animation
+git push origin +demoss/fcti_start_animation
+bash
+bundler --version
+exit
+bundle install
+bundle --version
+bundle update
+bundle update
+bundle install
+bundle install
+bundle install
+bundle install
+bundle update
+bundle update
+bundle update
+bundle update
+bundle update
+bundler --version
+bundler install 2.2.24
+gem install bundler -v 2.2.24
+bundler --version
+bash
+gem remove bundler -v 2.3.5
+gem uninstall bundler -v 2.3.5
+gem uninstall bundler
+gem install bundler -v 2.2.24
+bundle install
+bundler --version
+run gem uninstall bundler
+gem uninstall bundler
+cd ~/.rvm/rubies/ruby-2.7.0/lib/ruby/gems/2.7.0/specifications/default/
+cd ~/.rvm/rubies/ruby-2.7.0/lib/ruby/gems/2.7.0/specifications/
+cd default/
+ll
+rm bundler-2.3.5.gemspec 
+cd ~/repos/moneymobilex/
+gem install bundler:2.2.24 --default
+bundler --version
+cd ~/.rvm/rubies/ruby-2.7.0/lib/ruby/gems/2.7.0/specifications/default/
+ll
+cd -
+ll
+gem install bundler -v 2.2.24
+bundler --version
+bundle install
+bxr
+git status
+rm gemfile.lock
+bundle install
+bundler --version
+cd ~/.rvm/rubies/ruby-2.7.0/lib/ruby/gems/2.7.0/specifications/default/
+ll
+cd ..
+ll
+cd ..
+ll
+cd gems/
+ll
+rm bundler-2.3.5/
+rm -rf bundler-2.3.5/
+cd ..
+ll
+cd specifications/
+bxr
+gem install bundler -b 2.2.24
+gem install bundler -v 2.2.24
+gem uninstall bundler
+ll
+cd ..
+ll
+cd specifications/
+ll
+cd default/
+ll
+cd ..
+cd..
+cd ..
+ll
+cd gems/
+ll
+cd ..
+cd ..
+ll
+cd ..
+ll
+cd gems/
+ll
+cd 2.7.0/
+ll
+cd gems/
+ll
+cd ..
+ll
+cd specifications/
+ll
+rvm 
+rvm reinstall 2.7.0
+rvm list
+brew doctor
+exit
+bundler --version
+cd ..
+exit

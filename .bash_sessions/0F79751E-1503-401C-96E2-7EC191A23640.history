@@ -1,0 +1,505 @@
+rvm install ruby-2.6.6
+bash
+clear
+ps
+bash
+vim
+cd repos/appiumx-desktop/
+npm run dev
+npm run dev
+bash
+clear
+cd repos/moneymobilex/
+bxr
+rvm help
+man rvm
+rvm update
+rvm get
+rvm update
+brew update
+ps
+brew update
+bash
+rvm
+rvm current
+bxr
+gem install bundler -v 2.1.4
+bundle
+bundle update --bundler
+gem install bundler:2.1.4
+gem list
+gem list | grep bundle
+gem default bundler 2.1.4
+gem help
+man gem
+bundler -v
+gem uninstall bundler 2.1.2
+gem list | grep bundle
+sudo gem clean
+gem list | grep bundle
+gem env paths
+ls /Users/josh.demoss/.rvm/gems/ruby-2.7.0:/Users/josh.demoss/.rvm/rubies/ruby-2.7.0/lib/ruby/gems/2.7.0
+ls /Users/josh.demoss/.rvm/gems/ruby-2.7.0:/Users/josh.demoss/.rvm/rubies/ruby-2.7.0/lib/ruby/gems
+ls /Users/josh.demoss/.rvm/gems/ruby-2.7.0
+rm -rf /Users/josh.demoss/.rvm/gems/ruby-2.7.0
+gem env paths
+rm -rf /Users/josh.demoss/.rvm/rubies/ruby-2.7.0/lib/ruby/gems/2.7.0
+gem install
+bundle install
+bundler
+brew install gem
+gem update
+gem install bundler:2.1.4
+gem list | grep bundle
+bundler install
+bundler install
+bundler install
+bxr
+cd repos/moneymobilex/
+bash
+ruby -v
+vim ~/.bash_profile 
+bash
+bash
+brew update
+brew upgrade
+brew upgrade rvm
+rvm install ruby-2.6.6
+ruby -v
+rvm use 2.6.6
+rvm --default use 2.6.6
+bash
+cd repos/appiumx-desktop/
+bash
+exit
+gem list
+ruby -v
+rvm --versions
+rvm help
+rvm list
+rvm --default use 2.6.6
+rvm list
+bundle
+  update --bundler
+bundle update --bundler
+which ruby
+exit
+bash
+bundler upgrade
+bundler update
+gem install bundler 2.2.5
+cd repos/moneymobilex/
+bundler install 2.2.5
+gem install bundler:2.2.5
+sudo gem install bundler:2.2.5
+gem uninstall bundler:2.1.5
+gem uninstall bundler:2.1.3
+gem uninstall bundler:2.1.4
+gem list | grep bundle
+bundler -b
+bundler -v
+bundle -v
+bundle
+gem install bundler
+gem env paths
+rm -rf /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/gems/2.6.0
+sudo rm -rf /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/gems/2.6.0
+gem list
+bash
+exit
+gem install bundler 2.2.5
+find ~/.rvm -name bundler | xargs rm
+find ~/.rvm -name bundler | xargs rm -r
+find ~/.rvm -name bundler | xargs rm -rf
+gem install bundler
+bxr
+bxr
+bundle install
+bxr
+bundler
+bundler -v
+ruby -v
+cd repos/moneymobilex/
+bundle update --bundler
+gem inistall
+gem install
+gem install bundler
+bash
+ruby -v
+cd repos/moneymobilex/
+bundle update --bundler
+gem inistall
+gem install
+gem install bundler
+bash
+bash
+ruby -b
+ruby -v
+rvm use 2.6.6
+rvm use --default 2.6.6
+bash
+bash
+bash
+cd repos/moneymobilex/
+bxr
+bundler -v
+find ~/.rvm -name bundler | xargs rm
+find ~/.rvm -name bundler | xargs rm -f
+find ~/.rvm -name bundler | xargs rm -r
+gem install bundler -v 2.1.4
+bundle install
+bxr
+bash
+bundle install
+bundle -v
+bundler -v
+bash
+bash
+bundler -b
+v
+gem uninstall bundler
+gem install bundler -v 2.1.4
+cd repos/moneymobilex/
+bundle install
+bxr
+bundle uninstall
+bundle remove
+bundle remove *
+bundle remove all
+bundle help
+bundle list | ruby -e 'ARGF.readlines[1..-1].each {|l| g = l.split(" ");  puts "Removing #{g[1]}"; `gem uninstall --force #{g[1]} -v #{g[2].gsub(/\(|\)/, "")}`; }'
+bundle install
+bundle -v
+bash
+exit
+bundle list | ruby -e 'ARGF.readlines[1..-1].each {|l| g = l.split(" ");  puts "Removing #{g[1]}"; `gem uninstall --force #{g[1]} -v #{g[2].gsub(/\(|\)/, "")}`; }'
+cd repos/moneymobilex/
+bundle list | ruby -e 'ARGF.readlines[1..-1].each {|l| g = l.split(" ");  puts "Removing #{g[1]}"; `gem uninstall --force #{g[1]} -v #{g[2].gsub(/\(|\)/, "")}`; }'
+bundle install
+git status
+git reset Gemfile.lock 
+git status
+bxr
+sudo gem install bundler:2.1.3 -n /usr/local/bin
+sudo gem install bundler:2.1.4 -n /usr/local/bin
+bundle install rake
+bundle install
+gem install rake
+bxr
+gem install rake 13.0.4
+gem install rake:13.0.4
+gem remove rake:13.0.6
+gem uninstall rake:13.0.6
+sudo gem install rake:13.0.4  -n /usr/local/bin
+sudo gem install CFPropertyList:3.0.3 -n /usr/local/bin
+sudo gem install concurrent-ruby:1.1.9 -n /usr/local/bin
+bundle install
+sudo gem install concurrent-ruby:1.1.9 -n /usr/local/binbxr
+bxr
+git checkout -b josh/pulse_safe_to_save
+cd ../gru
+bundle install
+cd ../moneymobilex/
+cd ../mmx-common/
+bundle install
+bundle list | ruby -e 'ARGF.readlines[1..-1].each {|l| g = l.split(" ");  puts "Removing #{g[1]}"; `gem uninstall --force #{g[1]} -v #{g[2].gsub(/\(|\)/, "")}`; }'
+cd ../moneymobilex/
+bundle list | ruby -e 'ARGF.readlines[1..-1].each {|l| g = l.split(" ");  puts "Removing #{g[1]}"; `gem uninstall --force #{g[1]} -v #{g[2].gsub(/\(|\)/, "")}`; }'
+cd ../mmx-common/
+bundle install
+cd ..
+cd moneymobilex/
+bundle list
+bundle list | grep i18
+rvm --default use 2.6.6
+vim ~/.bashrc
+vim ~/.bashrc
+bash
+exit
+bundle -v
+bash
+vim ~/.zshrc
+vim ~/.zlogin 
+vim ~/.bashrc
+vim ~/.zlogin 
+bundle isntall  -n /usr/local/binbxr
+bundle install  -n /usr/local/binbxr
+bundle config -n /usr/local/bin
+bundle install
+cd repos/moneymobilex/
+bundle install
+bundle exec clang-format-check inspect --git -a  # Auto correct all files with changes in the local git repo
+git stash
+git checkout master
+git pull
+git checkout -b josh/dashboard_minor_cleanu
+git checkout -b josh/dashboard_minor_cleanup
+git stash pop
+git reset head^
+bundle exec clang-format-check inspect --git -a  # Auto correct all files with changes in the local git repo
+git checkout alaska
+bxr whitelabel:set[alaska]
+bxr whitelabel:set[alaska]
+bxr
+bxr whitelabel:set[fhb]
+bxr
+bxr whitelabel:set[afcu]
+bxr whitelabel:set[afcu]
+bxr
+bxr whitelabel:set[epic]
+bxr
+bxr whitelabel:set[default]
+bxr clean
+bxr
+bxr whitelabel:download[APP-DEFAULT]
+bxr
+bxr whitelabel:set[afcu]
+bxr whitelabel:set[afcu]
+bxr
+git checkout master
+git stash
+git pull
+git stash pop
+git checkout -b josh/biomodal_mfa
+bxr
+git reset head^
+bundle exec clang-format-check inspect --git -a  # Auto correct all files with changes in the local git repo
+git checkout josh/dashboard_minor_cleanup
+bxr
+git stash
+git checkout master
+git pull
+git stash pop
+bxr
+bundle install
+bxr
+bxr
+bxr whitelabel:set[MX Beta]
+bxr whitelabel:set[mx_beta]
+bxr whitelabel:set[epic]
+bxr whitelabel:set[epic]
+bxr whitelabel:set[epic]
+bxr
+bxr whitelabel:download[APP-DEFAULT]
+bxr
+git pull
+git stash
+git pull
+git stash pop
+bxr
+bundle install
+bxr
+bxr
+bxr
+bxr
+bxr
+bxr
+bxr
+bash
+ll
+clear
+ll
+ls
+bxr
+git checkout master
+git pull
+bxr
+bxr mugatu
+conan update
+bxr conan update
+conan
+conan install
+conan remove gru
+conan remove gru -y
+conan remove gru 
+y
+y
+y
+conan remove gru 
+bxr
+bxr
+bxr conan-update
+conan download gru/2.59.0@mx/stable --recipe
+ERROR: Recipe not found: 'gru/2.59.0@mx/stable'
+ls /Users/josh.demoss/.conan/data/gru/2.59.0/mx/stable/export
+ls /Users/josh.demoss/.conan/data/gru/2.59.0/mx/stable
+conan remote list
+conan remote remove conan-center
+bxr
+ls /Users/josh.demoss/.conan/data/gru/2.59.0/mx/stable/export
+bx mx-conan setup
+br
+bxr
+bxr
+git status
+git checkout -b josh/username_spaces
+git checkout master
+git stash pop
+git status
+bxr whitelabel:set[mx_beta]
+bxr
+bxr
+bxr
+bxr
+bxr
+bxr
+git status
+git checkout -b josh/pulse_dashboard_header
+bundle exec clang-format-check inspect --git -a  # Auto correct all files with changes in the local git repo
+bundle exec clang-format-check inspect --git -a  # Auto correct all files with changes in the local git repo
+git checkout master
+git pull
+git checkout 2.61
+git stash
+git checkout 2.61
+git reset head^
+git checkout -b josh/username_backport
+git checkout josh/pulse_dashboard_header
+git checkout josh/username_backport
+git pull origin 2.61
+git checkout master
+git pull
+git stash pop
+git pull origin master
+git pull origin master
+git checkout -b josh/pulse_dashboard
+bxr
+bxr
+bxr
+git pull origin master
+git stash
+git pull origin master
+git stash pop
+bxr
+git status
+git stash
+cd repos/moneymobilex/
+bxr
+bxr
+bxr
+bxr
+clear
+bxr whitelabel:set[mx_beta]
+bxr whitelabel:set[mx_beta]
+bxr whitelabel:set[mx_betai, int, ios]
+bxr whitelabel:set[mx_beta, int, ios]
+bxr whitelabel:set[mx_beta]
+bxr whitelabel:set[APP-1cd29fd5-b6a3-493e-acfc-fc8ef6850fb7]
+bxr whitelabel:download[APP-1cd29fd5-b6a3-493e-acfc-fc8ef6850fb7]
+bxr
+bxr whitelabel:download[APP-1cd29fd5-b6a3-493e-acfc-fc8ef6850fb7]
+bxr whitelabel:download[APP-1cd29fd5-b6a3-493e-acfc-fc8ef6850fb7]
+bxr
+bxr verbose
+bxr --verbose
+bundle exec --verbose rake
+bxr --verbose whitelabel:download[APP-1cd29fd5-b6a3-493e-acfc-fc8ef6850fb7] 
+bxr whitelabel:download[APP-1cd29fd5-b6a3-493e-acfc-fc8ef6850fb7]
+bxr --verbose whitelabel:download[APP-1cd29fd5-b6a3-493e-acfc-fc8ef6850fb7] 
+bxr --verbose whitelabel:download[APP-1cd29fd5-b6a3-493e-acfc-fc8ef6850fb7] 
+bxr --verbose whitelabel:download[APP-1cd29fd5-b6a3-493e-acfc-fc8ef6850fb7] 
+bxr
+git checkout -b josh/mx_beta
+git push origin +josh/mx_beta
+bxr
+git checkout mastter
+git checkout master
+bxr --verbose whitelabel:download[APP-1cd29fd5-b6a3-493e-acfc-fc8ef6850fb7] 
+bxr
+bxr clear
+bxr clean
+bxr --verbose whitelabel:download[APP-1cd29fd5-b6a3-493e-acfc-fc8ef6850fb7] 
+bxr --verbose whitelabel:download[APP-1cd29fd5-b6a3-493e-acfc-fc8ef6850fb7] 
+bxr
+bxr
+bxr clean
+bxr --verbose whitelabel:download[APP-1cd29fd5-b6a3-493e-acfc-fc8ef6850fb7] 
+bxr --verbose whitelabel:download[APP-1cd29fd5-b6a3-493e-acfc-fc8ef6850fb7] 
+bxr
+bxr clean
+bxrt
+bxr
+bxr --verbose whitelabel:download[APP-1cd29fd5-b6a3-493e-acfc-fc8ef6850fb7] 
+bxr
+bxr
+find
+find logo_white
+locate
+find . logo_white
+find . logo_white | grep logo_white
+cd institutions/mx_beta/
+find . logo_white | grep epic
+cd ../..
+bxr whitelabel:set[hugues]
+bxr whitelabel:download[huges\]
+bxr whitelabel:download[huges]
+bxr whitelabel:set[afcu]
+bxr whitelabel:set[hughes]
+bxr
+bxr
+bxr
+bxr
+bxr
+git checkout -b josh/hughes_pulse
+git checkout josh/mx_beta
+git stash
+git pull origin master
+git checkout josh/hughes_pulse
+git reset head^
+git stash
+git reset head^
+git reset head^
+git stash
+git stash drop
+git stash pop
+git pull origin master
+git commit
+git checkout josh/mx_beta
+git pull origin master
+git checkout josh/hughes_pulse
+bxr whitelabel:set[fhb]
+bundle install
+gem install bundler:2.2.24
+gem install bundler:2.2.24
+bundle install
+bxr
+bxr whitelabel:set[fhb]
+bxr
+bxr
+git checkout josh/mx_beta
+git checkout josh/mx_beta
+bxr
+bxr
+bxr mugatu
+vim ~/.bundle/config 
+bxr mugatu
+bundle install
+bxr
+ls ~/.conan/data/gru/
+rm -rf ~/.conan/data/gru/2.59.0/
+bxr
+clear
+ll
+ls
+vim ~/.bashrc
+vim ~/.bashrc_ext 
+ll
+bash
+bash
+cd repos/appiumx-desktop/
+clear
+npm run dev
+git 
+bash
+clear
+cd Documents/
+ll
+ls
+rm -rf Hughes\ FCU/
+rm -rf Hughes\ FCU/
+ls -la
+bash
+bash
+bash
+bash
+bash

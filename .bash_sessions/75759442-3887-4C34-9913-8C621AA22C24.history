@@ -1,0 +1,501 @@
+git log
+git checkout -b demoss/sync_beats
+cd ../synchronicity/
+cd config
+ll
+vim database.yml.sample 
+cd ..
+cd bin/setup 
+cd bin/
+cd ..
+./bin/setup 
+gem install pg -v '0.21.0
+gem install pg -v '0.21.0'
+rvm --list
+rvm -list
+rvm list
+rvm install
+rvm list known
+rvm install jruby-9.2.9.0
+vim /Users/josh.demoss/.rvm/log/1632765185_jruby-9.2.9.0/gemsets.import.global.log
+homebrew install java
+brew install java
+rvm install jruby-9.2.9.0
+rvm install jruby-9.2.9.0
+rvm list
+./bin/setup 
+bundle install
+bash
+clearr
+clear
+gem install bundler
+bundle install
+./bin/setup 
+./bin/setup 
+sudo -u postgres psql
+sudo service postgresql start
+sudo service postgresql start
+./bin/setup 
+brew install postgres
+brew services start postgresql
+brew services stop postgresql
+psql postgres
+brew services start postgresql
+psql postgres
+./bin/setup 
+bx rake db:setup
+./bin/setup 
+rvm list
+brew install jemv
+brew install jenv
+jenv local
+bxr whitelabel:set[mx beta]
+bxr whitelabel:set[mxbeta]
+cd ..
+cd moneymobilex/
+bxr whitelabel:set[mx_beta]
+bxr
+rm -rf ~/Documents/MX\ Beta
+rm -rf ~/Documents/MX\ Beta
+bxr whitelabel:download[APP-99066516-bdd8-46db-9846-18e4cf630d02]
+bxr
+find . -name 'cacerts'
+git pull origin master
+git stash
+git pull origin master
+git stash pop
+bxr configure:build_app_scaffold_config
+bxr mugatu
+git status
+bxr
+bxr
+bash
+cd repos/appiumx-desktop/
+vim
+vim ../../Documents/projectnotes/
+vim ../../Documents/projectnotes/config_editor 
+vim ../../Documents/projectnotes/MMXUCS
+bash
+cd repos/gru/
+git status
+git stash
+git checkout 2.69.0
+git checkout 074affa106a8fe44f3bfa25019a63b915fe75737
+git status
+git stash applu
+git stash apply
+bundle exec mx-conan create macos
+bxrt
+bx
+bundle exec mx-conan create macos
+bundle exec mx-conan create ios
+git status
+git stash
+git pull
+git checkout master
+git pull
+bxr
+git stash pop
+git status
+bundle exec mx-conan create macos
+bundle exec mx-conan create ios
+git status
+git pull
+git commit
+git status
+git reset head
+git status
+git reset head^
+git reset head^
+git status
+gs
+clear
+git status
+git stash
+git status
+git pull
+git stash pop
+git commit
+git status
+bundle exec mx-conan create macos
+bundle exec mx-conan create ios
+bundle exec mx-conan create macos
+bxr
+bundle exec mx-conan create macos
+bxr
+bundle exec mx-conan create macos
+bundle exec mx-conan create ios
+git status
+git status
+bundle exec mx-conan create macos
+cd ..
+git checkout git@gitlab.mx.com:mx/active_record.git
+git clone git@gitlab.mx.com:mx/active_record.git
+cd active_record/
+git pull
+bxr
+bundle install
+bxr
+cd ..
+cd gru/
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+bundle exec mx-conan create ios
+bundle exec mx-conan create ios
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+bxrrr
+bxr
+bxr
+bxr
+bxr
+bxr
+bxr
+bxr
+bxr
+bxr
+bxr
+bxr
+bxr
+bxr
+bxr
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+bundle exec mx-conan create ios
+bundle exec mx-conan create ios
+bundle exec mx-conan create ios
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+bundle exec mx-conan create ios
+bundle exec mx-conan create ios
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+bundle exec mx-conan create maco
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+bundle exec mx-conan create ios
+cd ..
+cd ..
+cd Documents/
+rm -rf MX\ Beta/
+cd ..
+cd repos/gru/
+cd ..
+git clone git@gitlab.mx.com:mx/synchronicity.git
+cd synchronicity/
+Download Redis $sudo apt-get install redis-server
+sudo apt-get install redis-server
+brew install redis
+sudo redis-server
+sudo redis-server
+bash
+cd repos/appiumx-desktop/
+npm run dev
+bash
+/Users/josh.demoss/Downloads/archive/bin/yabai ; exit;
+/Users/josh.demoss/Downloads/archive/bin/yabai ; exit;
+/Users/josh.demoss/Downloads/archive/bin/yabai ; exit;
+git diff
+command
+ll
+ls
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+git pull origin master
+git push origin +demoss/sync_beats
+cd repos/gru/
+bash
+cd repos/moneymobilex/
+bxr
+ll
+gs
+git stash
+git checkout demoss/theme_editor_v1
+bundle exec clang-format-check inspect --git -a  # Auto correct all files with changes in the local git repo
+bundle exec clang-format-check inspect --git -a  # Auto correct all files with changes in the local git repo
+bundle exec clang-format-check inspect --git -a
+git checkout demoss/sync_beats
+git stash
+git stash drop
+git checkout demoss/sync_beats
+bxr
+bxr
+cd ../active_record/
+bash
+vim
+cd repos/appiumx-desktop/
+npm run dev
+bash
+cd repos/moneymobilex/
+rm -rf ~/Documents/MX\ Beta
+rm -rf ~/Documents/MX\ Beta\ Sand/
+bx json-check inspect --verbose -a
+git status
+git add *
+git status
+git stash
+git checkout master
+git pull
+git checkout -b demoss/theme_editor_v1
+git stash pop
+git reset head^
+git stash
+bxr
+bxr
+bbundle install
+bundle install
+bxr
+git reset head^
+bundle exec clang-format-check inspect --git -a  # Auto correct all files with changes in the local git repo
+bxr whitelabel:set[mx_beta]
+bxr whitelabel:set[mx_beta]
+bxr whitelabel:set[mx_beta]
+git checkout demoss/pulse_sync
+git checkout demoss/sync_beats
+git status
+git stash
+git checkout demoss/sync_beats
+git status
+bxr
+bxr whitelabel:set[mx_beta]
+bxr whitelabel:download[APP-99066516-bdd8-46db-9846-18e4cf630d02]
+bxr
+git checkout demoss/theme_editor_v1
+git checkout demoss/sync_beats
+git stash
+git stash drop
+git checkout demoss/sync_beats
+bxr
+cd ../active_record/
+cd src/_internal/model/
+vim model.cpp 
+cd ..
+ll
+cd database/
+ll
+cd ..
+ll
+cd predicates/
+ll
+cd ..
+cd model/
+ll
+cd ~/repos/
+git clone git@gitlab.mx.com:mx/mmx-common.git
+cd mmx-common/
+git pull
+cd ..
+cd ~/Documents/
+ll
+cd MX\ Beta
+ll
+cd ~/repos/mmx-common/
+git pull
+git checkout mm/storing-array-objects
+bundle exec mmx-common create ios
+bundle install
+bundle install
+bundle exec mmx-common create ios
+bundle exec mx-conan create ios
+bundle exec mx-conan create macos
+conan remove gru
+cd ../active_record/
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+bundle exec mx-conan create ios
+git status
+git status master
+git status
+bundle exec mx-conan create ios
+bundle exec mx-conan create macos
+bxr mugatu
+bxr mugatu
+bxr mugatu
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+open proj.apple/active_record.xcodeproj/
+cd ../moneymobilex/
+git checkout demoss/theme_editor_v1
+bxr
+git checkout demoss/sync_beats
+git stash
+git checkout demoss/sync_beats
+bxr
+cd ../gr
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+cd ../moneymobilex/
+bxr
+bxr
+bx mx-conan update
+conan remove gru
+bxr
+vim ~/.bashrc_ext 
+vim ~/.bashrc_ext 
+git pull
+tlogin
+git checkout demoss/theme_editor_v1
+git stash
+git stash drop
+git checkout demoss/theme_editor_v1
+bxr
+bxr
+gstashpeek 
+git stash pop
+git status
+git status
+git checkout demoss/sync_beats
+bxr
+bxr
+bxr
+bxr
+bx mx-conan update
+bxr
+bx mx-conan update
+conan remove gru
+conan remove gru
+bxr
+bx mx-conan update
+bx mx-conan update
+bxr
+git pull origin master
+git stash
+git pull origin master
+git commiit
+git commit
+bxr
+bundle install
+bxr
+git stash pop
+bx mx-conan update
+conan remove gru
+bxr
+git stash
+git checkout demoss/theme_editor_v1
+vim ~/.bashrc_ext 
+bxr
+bxr
+bash
+cd repos/synchronicity/
+sudo redis-server
+bash
+cd repos/mmx-common/
+bundle exec mx-conan create macos
+bundle install
+bundle exec mx-conan create macos
+bundle exec mx-conan create ios
+cd ..
+cd gru/
+bundle exec mx-conan create macos
+bundle exec mx-conan create ios
+git stash
+bundle exec mx-conan create ios
+gs
+gs
+git status
+git stash
+git pull origin master
+vim conanfile.py 
+git rebase master
+git status
+git add conanfile.py 
+git commit
+git rebase master
+git status
+git pull
+vim conanfile.py 
+git status
+git add conanfile.py 
+git commit
+git status
+git push
+git rebase master
+git status
+vim conanfile.py 
+git add conanfile.py 
+git commit
+git rebase master
+git rebase --continue
+git push origin +demoss/sync_beats
+git rebase master
+git reset head^
+git reset head^
+git reset head^
+git reset head^
+git stash
+git stash drop
+vim conanfile.py 
+git push origin +demoss/sync_beats
+bundle exec clang-format-check inspect --git -a  # Auto correct all files with changes in the local git repo
+bundle exec clang-format-check inspect --git -a
+bundle exec clang-format-check inspect --git -a
+git push origin +demoss/sync_beats
+git push origin +demoss/sync_beats
+git push origin +demoss/sync_beats
+git commit
+git reset head^
+git stash
+git stash drop
+git rebase master
+git pull master
+git status
+git pull origin master
+git commit
+git rebase origin master
+git status
+git rebase origin master
+git push origin +demoss/sync_beats
+git status
+git reset head^
+git stash
+git stash drop
+git status
+git log
+git checkout demoss/sync_beats
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+bundle exec mx-conan create ios
+bundle exec mx-conan create ios
+bundle exec mx-conan create macos
+bundle exec mx-conan create ios
+git stash
+git rebase master
+git rebase continue
+git rebase --continue
+git rebase --continue
+git rebase --continue
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+bundle exec mx-conan create macos
+bundle exec mx-conan create ios
+bundle exec mx-conan create macos
+bundle exec mx-conan create ios
+bundle exec mx-conan create ios
+bundle exec mx-conan create apple
+git pull origin master
+bash

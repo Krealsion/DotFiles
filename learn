@@ -1,0 +1,44 @@
+`H` - Search for the underlined symbol
+`W` `B` `E` - ignore symbol word jumps
+<c-H> - functions in class
+
+Karbiner:
+	Ctrl: 
+		J - Up Arrow
+		K - Down Arrow 	
+		L - Left Arrow
+		; - Right Arrow
+  Ctrl + Shift:
+
+Vim:
+	None:
+    C - Modifier "Correct"
+    J/K/L/; - Up/Down/Left/Right
+		V - Visual Character
+    U - Undo
+	Ctrl:
+    R - Redo
+	Shift:
+		V - Visual Line
+
+IDE:
+  Ctrl + Shift:
+    A - Previous Location
+    S - Next Location
+    Z - File Structure
+
+  Option:
+    R - Rename
+
+  Cmd + Shift:
+    Build Commands:
+      E - Exit Running
+      R - Reload CMake
+      D - Debug
+    Git Commands:
+      W - Add File to staged
+      J - Commit Current File
+      K - Push commits
+    Window Commands:
+      T - Terminal
+      C - Close all tool windows
